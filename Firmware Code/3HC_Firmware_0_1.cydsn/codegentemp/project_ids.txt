@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|72a62706-3781-4d02-9740-fb125414056d
+C:\Users\Caleb Cotter\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|c6e91078-061d-43f9-a85d-16e42719ecbe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|ea1c31ab-be99-46e2-a0ab-ae5264f47f0a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4d5d04ba-2399-4dcb-9541-8547f3ba6adf
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a562804a-f523-4d6c-be0f-65c261530b24
+C:\Users\Caleb Cotter\Documents\GitHub\3HC\3HC_Firmware\3HC_Firmware_0_1.cydsn\3HC_Firmware_0_1.cyprj|8c82b82a-f1d3-4ed2-9558-f3594326eeb3
+C:\Program Files (x86)\Cypress\PSoC Creator\4.2\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|ae890b0e-e1c2-4d06-ba13-8b1b036ec086
